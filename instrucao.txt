@@ -1,0 +1,2 @@
+/* para rodar o projeto, use o comando "npm start" no terminal. 
+Para criar uma nova parte do projeto, use o comando "npm run next". */
