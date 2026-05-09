@@ -4,9 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node parte1/app.js"
+    "start": "node parte3/app.js",
+    "next": "bash nova-parte.sh"
   },
   "keywords": [],
   "author": "",
   "license": "ISC"
 }
+
+

@@ -1,9 +1,10 @@
-function calcularTotalComDesconto(valorBruto, percentualDesconto) {
-    const taxaDeDesconto = percentualDesconto / 100;
+function calcularTotalComDesconto(valorBruto, percentuarDesconto) {
+    const taxaDeDesconto = percentuarDesconto / 100;
     const valorDeDesconto = valorBruto * taxaDeDesconto;
-    const valorFinal = valorBruto - valorDeDesconto;
+    const valorFinal = valorBruto - taxaDeDesconto;
 
-    return valorFinal;
+    return valorFinal
+    
 }
 
 module.exports = {
