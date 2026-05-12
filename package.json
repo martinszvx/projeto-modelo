@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node parte3/app.js",
+    "start": "node parte4/app.js",
     "next": "bash nova-parte.sh"
   },
   "keywords": [],

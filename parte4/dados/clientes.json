@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1778545332599,
+    "nome": "Maria",
+    "email": "maria@gmail.com",
+    "categoria": "VIP"
+  },
+  {
+    "id": 1778545350952,
+    "nome": "joao",
+    "email": "joao@gmail.com",
+    "categoria": "VIP"
+  },
+  {
+    "id": 1778545366173,
+    "nome": "lucas",
+    "email": "lucas@gmail.com",
+    "categoria": "VIP"
+  },
+  {
+    "id": 1778545394524,
+    "nome": "fernando",
+    "email": "fernando@gmail.com",
+    "categoria": "comum"
+  }
+]
