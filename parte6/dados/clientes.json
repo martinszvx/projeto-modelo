@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1778885452689,
+    "nome": "lucas",
+    "email": "lucas@gmail.com",
+    "categoria": "vip"
+  },
+  {
+    "id": 1778885528105,
+    "nome": "joao",
+    "email": "joa@gmail.com",
+    "categoria": "comum"
+  }
+]
